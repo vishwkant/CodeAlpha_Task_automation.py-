@@ -1,0 +1,8 @@
+sarah.jenkins@company-exec.com
+exec-assistant1@company-exec.com
+tech.lead_99@dev-team.org
+info@helpdesk.net
+urgent.support-123@tech-solutions.co.uk
+deprecated_support@old-domain.com
+mark.smith_sales@global-reach.biz
+partnerships@marketing-hub.info
