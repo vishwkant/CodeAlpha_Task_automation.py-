@@ -1,0 +1,23 @@
+*** COMPANY DIRECTORY UPDATE - Q4 ***
+
+Welcome to the new company directory. Please ensure all your contact information is up to date.
+
+Management Team:
+Our CEO, Sarah Jenkins, can be reached directly at sarah.jenkins@company-exec.com. For scheduling meetings with her, please email her assistant at exec-assistant1@company-exec.com.
+Our CTO is available at tech.lead_99@dev-team.org.
+
+Customer Support:
+For general inquiries, customers should be directed to info@helpdesk.net. 
+If there are urgent technical issues, please forward the tickets to urgent.support-123@tech-solutions.co.uk. 
+Do NOT use the old email (deprecated_support@old-domain.com) as it is no longer monitored.
+
+Sales & Marketing:
+The regional sales director is mark.smith_sales@global-reach.biz.
+For marketing partnerships, reach out to partnerships@marketing-hub.info.
+
+Random text to test the script:
+Here are some things that look like emails but are NOT: 
+john.doe at gmail.com, www.website.com, @twitter_handle, user#domain.com
+The script should completely ignore those!
+
+End of directory.
